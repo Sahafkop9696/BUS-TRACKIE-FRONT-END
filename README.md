@@ -24,7 +24,7 @@ The Bus Tracking App is a real-time application that allows users to track the l
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarath-m-s/bus-app-frontend.git
+   git clone https://github.com/Sahafkop9696/BUS-TRACKIE-FRONT-END.git
    cd bus-app-frontend
 
 2. Install dependencies:
